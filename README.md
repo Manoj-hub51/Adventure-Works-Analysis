@@ -49,7 +49,10 @@ Data was cleaned and transformed before analysis to ensure accuracy and consiste
 ![Power BI Dashboard](https://raw.githubusercontent.com/Manoj-hub51/Adventure-Works-Analysis/main/visuals/Pwbix_Dashboard_screenshot.png)
 
 ### 🔹 Tableau Dashboard
-![Tableau Dashboard](https://raw.githubusercontent.com/Manoj-hub51/Adventure-Works-Analysis/main/visuals/Tableau_Dshaboard_Screenshot1.png)
+![Tableau Dashboard](https://raw.githubusercontent.com/Manoj-hub51/Adventure-Works-Analysis/main/visuals/Tableau_Dashboard_Screenshot.png)
+
+### 🔹 Tableau Dashboard
+![Tableau Dashboard](https://raw.githubusercontent.com/Manoj-hub51/Adventure-Works-Analysis/main/visuals/Tableau_Dashboard_Screenshot1.png)
 
 ---
 
