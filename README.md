@@ -46,7 +46,7 @@ Data was cleaned and transformed before analysis to ensure accuracy and consiste
 ## 📸 Dashboard Screenshots
 (Add your uploaded image links below)
 
-![Dashboard 1](PASTE_IMAGE_LINK_HERE)
+![Power BI Dashboard]https://raw.githubusercontent.com/Manoj-hub51/Adventure-Works-Analysis/main/visuals/Pwbix_Dashboard_screenshot.png
 
 ![Dashboard 2](PASTE_IMAGE_LINK_HERE)
 
