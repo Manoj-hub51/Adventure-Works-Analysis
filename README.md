@@ -43,12 +43,13 @@ Data was cleaned and transformed before analysis to ensure accuracy and consiste
 
 ---
 
-## 📸 Dashboard Screenshots
-(Add your uploaded image links below)
+## Dashboard Screenshots
 
-![Power BI Dashboard]https://raw.githubusercontent.com/Manoj-hub51/Adventure-Works-Analysis/main/visuals/Pwbix_Dashboard_screenshot.png
+### 🔹 Power BI Dashboard
+![Power BI Dashboard](https://raw.githubusercontent.com/Manoj-hub51/Adventure-Works-Analysis/main/visuals/Pwbix_Dashboard_screenshot.png)
 
-![Dashboard 2](PASTE_IMAGE_LINK_HERE)
+### 🔹 Tableau Dashboard
+![Tableau Dashboard](https://raw.githubusercontent.com/Manoj-hub51/Adventure-Works-Analysis/main/visuals/Tableau_Dshaboard_Screenshot1.png)
 
 ---
 
